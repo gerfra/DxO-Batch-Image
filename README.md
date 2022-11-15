@@ -15,14 +15,13 @@ something for myself, which I decided to share with everyone.
 
 
 
- Program:					DxO-Batch-Image
- AutoIt Version: 			3.3.16.1
- Author:         			Nextechnics
- WebSite:		 			https://www.nextechnics.com
- GitHub:		 			https://github.com/gerfra
- Usage: 		 			This program is used to process images massively, using specific preset profile, without using the user
-							interface of the DxO Photolab program
- License DxO_Loop: 			GPL3 https://www.gnu.org/licenses/gpl-3.0.html
+- Program:					DxO-Batch-Image
+- AutoIt Version: 			3.3.16.1
+- Author:         			Nextechnics
+- WebSite:		 		https://www.nextechnics.com
+- GitHub:		 		https://github.com/gerfra
+- Usage: 		 		This program is used to process images massively, using specific preset profile, without using the user interface of the DxO Photolab program
+- License DxO_Loop: 			GPL3 https://www.gnu.org/licenses/gpl-3.0.html
 
 
 ![DxO-Batch-Image Preview](https://i.imgur.com/5OwxY0R.jpg)
