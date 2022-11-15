@@ -57,4 +57,4 @@ DONATE</a>
 This project is licensed under the terms of the **GPLv3** license.
 
 ## Compiled Version?
-Why don't you release a compiled version? Why should I buy a digital signature and sign the executable file, otherwise it will be seen as a virus, to avoid stupid questions about false positives, I leave you the source code that you can compile yourself!
+Why don't you release a compiled version? Because should I buy a digital signature and sign the executable file, otherwise it will be seen as a virus, to avoid stupid questions about false positives, I leave you the source code that you can compile yourself!
