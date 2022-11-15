@@ -49,7 +49,7 @@ DONATE</a>
 
 ## Compile
 
--- Change the line <b>FileInstall("YOUR_CURRENT_PATH\icons.ico", $icon)</b>
+- Change the line: <b>FileInstall("YOUR_CURRENT_PATH\icons.ico", $icon)</b>
 
 ## License
 >You can check out the full license [here](https://www.gnu.org/licenses/gpl-3.0.html)
