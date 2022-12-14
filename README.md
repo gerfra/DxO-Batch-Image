@@ -15,13 +15,14 @@ something for myself, which I decided to share with everyone.
 
 
 
-- Program:					DxO-Batch-Image
-- AutoIt Version: 			3.3.16.1
-- Author:         			Nextechnics
-- WebSite:		 		https://www.nextechnics.com
-- GitHub:		 		https://github.com/gerfra
-- Usage: 		 		This program is used to process images massively, using specific preset profile, without using the user interface of the DxO Photolab program
-- License DxO_Loop: 			GPL3 https://www.gnu.org/licenses/gpl-3.0.html
+- Program: DxO-Batch-Image
+- AutoIt Version: 3.3.16.1
+- Python Version: 3
+- Author: Nextechnics
+- WebSite: https://www.nextechnics.com
+- GitHub: https://github.com/gerfra
+- Usage: This program is used to process images massively, using specific preset profile, without using the user interface of the DxO Photolab program
+- License DxO_Loop: GPL3 https://www.gnu.org/licenses/gpl-3.0.html
 
 
 ![DxO-Batch-Image Preview](https://i.imgur.com/5OwxY0R.jpg)
@@ -41,8 +42,14 @@ DONATE</a>
 
 ---
 
+## MacOS
+- If you have macOS, you can help by declaring the global variables Library etc... and copy the contents of the find_path_windows function into the find_path_macos and adapt it to your system. I don't use macOS I don't have a chance to test anything, you can contribute if you want.
+
+---
+
 ## Requirements
 -  <a href="https://www.autoitscript.com/site/">AutoIt</a>
+-  <a href="https://www.python.org/downloads/">Python 3</a>
 -  <a href="https://www.dxo.com/">DxO Photolab program</a>
 
 ---
@@ -56,5 +63,5 @@ DONATE</a>
 
 This project is licensed under the terms of the **GPLv3** license.
 
-## Compiled Version?
+## Autoit Compiled Version?
 Why don't you release a compiled version? Because should I buy a digital signature and sign the executable file, otherwise it will be seen as a virus, to avoid stupid questions about false positives, I leave you the source code that you can compile yourself!
